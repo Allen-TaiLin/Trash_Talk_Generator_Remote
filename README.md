@@ -28,7 +28,7 @@
 1. 開啟終端機(Terminal) 或 (Git Bash) 到欲存放專案的本機位置並執行:
 
 ```
-git clone https://github.com/Allen-TaiLin/restaurant-list-remote.git
+git clone https://github.com/Allen-TaiLin/Trash_Talk_Generator_Remote.git
 ```
 
 2. 開啟終端機(Terminal) 或 (Git Bash)，進入到存放此專案的資料夾
